@@ -19,8 +19,9 @@
 	</p>
 </div>
 
+## **This is a fork of discord.js with userbot support for research purposes. Use at your own risk.**
 ## About
-**This is a fork of discord.js with userbot support for research purposes. Use at your own risk.**
+
 This repository contains multiple packages with separate [releases][github-releases]. You can find the assembled Discord API wrapper at [`discord.js`][source]. It is a powerful [Node.js](https://nodejs.org/en) module that allows you to easily interact with the [Discord API](https://discord.com/developers/docs/intro).
 
 ## Packages
