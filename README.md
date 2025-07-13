@@ -8,9 +8,9 @@
 		<a href="https://discord.gg/djs"><img src="https://img.shields.io/discord/222078108977594368?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
 		<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="npm version" /></a>
 		<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600" alt="npm downloads" /></a>
-		<a href="https://github.com/discordjs/discord.js/actions"><img src="https://github.com/discordjs/discord.js/actions/workflows/tests.yml/badge.svg" alt="Tests status" /></a>
-		<a href="https://github.com/discordjs/discord.js/commits/main"><img src="https://img.shields.io/github/last-commit/discordjs/discord.js.svg?logo=github&logoColor=ffffff" alt="Last commit." /></a>
-		<a href="https://github.com/discordjs/discord.js/graphs/contributors"><img src="https://img.shields.io/github/contributors/discordjs/discord.js.svg?maxAge=3600&logo=github&logoColor=fff&color=00c7be" alt="contributors" /></a>
+		<a href="https://github.com/yukiakai212/discord.js/actions"><img src="https://github.com/yukiakai212/discord.js/actions/workflows/tests.yml/badge.svg" alt="Tests status" /></a>
+		<a href="https://github.com/yukiakai212/discord.js/commits/main"><img src="https://img.shields.io/github/last-commit/discordjs/discord.js.svg?logo=github&logoColor=ffffff" alt="Last commit." /></a>
+		<a href="https://github.com/yukiakai212/discord.js/graphs/contributors"><img src="https://img.shields.io/github/contributors/discordjs/discord.js.svg?maxAge=3600&logo=github&logoColor=fff&color=00c7be" alt="contributors" /></a>
 		<a href="https://codecov.io/gh/discordjs/discord.js"><img src="https://codecov.io/gh/discordjs/discord.js/branch/main/graph/badge.svg?precision=2" alt="Code coverage" /></a>
 	</p>
 	<p>
@@ -20,7 +20,7 @@
 </div>
 
 ## About
-
+**This is a fork of discord.js with userbot support for research purposes. Use at your own risk.**
 This repository contains multiple packages with separate [releases][github-releases]. You can find the assembled Discord API wrapper at [`discord.js`][source]. It is a powerful [Node.js](https://nodejs.org/en) module that allows you to easily interact with the [Discord API](https://discord.com/developers/docs/intro).
 
 ## Packages
@@ -62,28 +62,28 @@ Please read through our [contribution guidelines][contributing] before starting 
 If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle nudge in the right direction, please join our [Discord server][discord].
 
 [website]: https://discord.js.org
-[website-source]: https://github.com/discordjs/discord.js/tree/main/apps/website
+[website-source]: https://github.com/yukiakai212/discord.js/tree/main/apps/website
 [documentation]: https://discord.js.org/docs
 [guide]: https://discordjs.guide/
-[guide-source]: https://github.com/discordjs/guide
+[guide-source]: https://github.com/yukiakai212/guide
 [guide-update]: https://discordjs.guide/additional-info/changes-in-v14.html
 [discord]: https://discord.gg/djs
 [discord-api]: https://discord.gg/discord-api
-[source]: https://github.com/discordjs/discord.js/tree/main/packages/discord.js
+[source]: https://github.com/yukiakai212/discord.js/tree/main/packages/discord.js
 [npm]: https://www.npmjs.com/package/discord.js
 [related-libs]: https://discord.com/developers/docs/topics/community-resources#libraries
 [rpc]: https://www.npmjs.com/package/discord-rpc
-[rpc-source]: https://github.com/discordjs/RPC
-[contributing]: https://github.com/discordjs/discord.js/blob/main/.github/CONTRIBUTING.md
-[github-releases]: https://github.com/discordjs/discord.js/releases
-[brokers-source]: https://github.com/discordjs/discord.js/tree/main/packages/brokers
-[builders-source]: https://github.com/discordjs/discord.js/tree/main/packages/builders
-[collection-source]: https://github.com/discordjs/discord.js/tree/main/packages/collection
-[core-source]: https://github.com/discordjs/discord.js/tree/main/packages/core
-[formatters-source]: https://github.com/discordjs/discord.js/tree/main/packages/formatters
-[proxy-source]: https://github.com/discordjs/discord.js/tree/main/packages/proxy
-[rest-source]: https://github.com/discordjs/discord.js/tree/main/packages/rest
-[voice-source]: https://github.com/discordjs/discord.js/tree/main/packages/voice
-[util-source]: https://github.com/discordjs/discord.js/tree/main/packages/util
-[ws-source]: https://github.com/discordjs/discord.js/tree/main/packages/ws
-[good-first-issue]: https://github.com/discordjs/discord.js/contribute
+[rpc-source]: https://github.com/yukiakai212/RPC
+[contributing]: https://github.com/yukiakai212/discord.js/blob/main/.github/CONTRIBUTING.md
+[github-releases]: https://github.com/yukiakai212/discord.js/releases
+[brokers-source]: https://github.com/yukiakai212/discord.js/tree/main/packages/brokers
+[builders-source]: https://github.com/yukiakai212/discord.js/tree/main/packages/builders
+[collection-source]: https://github.com/yukiakai212/discord.js/tree/main/packages/collection
+[core-source]: https://github.com/yukiakai212/discord.js/tree/main/packages/core
+[formatters-source]: https://github.com/yukiakai212/discord.js/tree/main/packages/formatters
+[proxy-source]: https://github.com/yukiakai212/discord.js/tree/main/packages/proxy
+[rest-source]: https://github.com/yukiakai212/discord.js/tree/main/packages/rest
+[voice-source]: https://github.com/yukiakai212/discord.js/tree/main/packages/voice
+[util-source]: https://github.com/yukiakai212/discord.js/tree/main/packages/util
+[ws-source]: https://github.com/yukiakai212/discord.js/tree/main/packages/ws
+[good-first-issue]: https://github.com/yukiakai212/discord.js/contribute
